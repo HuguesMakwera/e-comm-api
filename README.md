@@ -4,4 +4,4 @@ Set-up the project
  
  Create the `.env` file by copying the contents of the `.env.example` file.
  
- `php artisan serve`
+ `php artisan serve`b
